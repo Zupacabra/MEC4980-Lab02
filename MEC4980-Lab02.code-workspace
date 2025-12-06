@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "MEC4980-HW01",
+			"path": "../MEC4980-HW01"
+		},
+		{
+			"name": "MEC4980-Wk2Friday",
+			"path": "../MEC4980-Wk2Friday"
+		},
+		{
+			"name": "MEC4980-W3C1",
+			"path": "../MEC4980-W3C1"
+		}
+	],
+	"settings": {}
+}
